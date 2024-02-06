@@ -22,7 +22,7 @@ console.log(typeof(bignumber));
 
 // Array, Objects, Functions
 
-
+/*
 Return type of variables in JavaScript
 1) Primitive Datatypes
        Number => number
@@ -37,3 +37,11 @@ Return type of variables in JavaScript
        Arrays  =>  object
        Function  =>  function
        Object  =>  object
+*/
+
+//-------------------------------------------------------------------
+
+// Stack (Primitive), Heap(Non-Primitive)
+
+
+
